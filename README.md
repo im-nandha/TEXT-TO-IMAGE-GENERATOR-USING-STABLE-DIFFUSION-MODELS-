@@ -4,7 +4,7 @@ See the [model card](https://huggingface.co/CompVis/stable-diffusion) for more i
 
 This Colab notebook shows how to use Stable Diffusion with the 🤗 Hugging Face [🧨 Diffusers library](https://github.com/huggingface/diffusers). 
 
-### Stable Diffusion Pipeline
+### 1.Stable Diffusion Pipeline
 
 `StableDiffusionPipeline` is an end-to-end inference pipeline that you can use to generate images from text with just a few lines of code.
 
